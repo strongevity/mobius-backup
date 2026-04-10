@@ -33,7 +33,7 @@ Every session includes:
 
 ## Rotation Schedule
 
-| Day | A (531) | B | C | D |
+| Day | A (8/5/3) | B | C | D |
 |-----|---------|---|---|---|
 | **Session A** | Squat/Pull | Chest/Hamstring | Shoulder/Glute | Rotation/Gait |
 | **Session B** | Chest/Hamstring | Shoulder/Glute | Squat/Pull | Rotation/Gait |
@@ -88,27 +88,25 @@ NEXT CYCLE: Add 5-10 lbs to Training Max, restart Week 1
 
 **Decision Tree:**
 ```
-Set 3: Max reps
+Set 3: Go for max reps (STOP AT 20)
    ↓
-20 reps hit? ──YES──→ INCREASE weight next week
+Hit 15+ reps? ──YES──→ INCREASE weight next week
    ↓ NO
-10-19 reps? ──NO──→ STAY at same weight
-   ↓
-Under 10? ──YES──→ DECREASE weight next week
+Under 15 reps? ──YES──→ STAY or DECREASE weight
 ```
+*Why stop at 20? You get the info you need. They don't need to go higher.*
 
 ## Section C: 3 × 15 (Endurance)
 
 **Decision Tree:**
 ```
-Set 3: Max reps
+Set 3: Go for max reps (STOP AT 20)
    ↓
-20 reps hit? ──YES──→ INCREASE weight next week
+Hit 15+ reps? ──YES──→ INCREASE weight next week
    ↓ NO
-15-19 reps? ──NO──→ STAY at same weight
-   ↓
-Under 15? ──YES──→ DECREASE weight next week
+Under 15 reps? ──YES──→ STAY or DECREASE weight
 ```
+*Same logic as Section B — stop at 20, if they hit 15+ increase.*
 
 ## Section D: Rotation/Gait (Capacity)
 
@@ -127,9 +125,9 @@ Significantly less? ──YES──→ DECREASE weight
 
 # SECTION 5: EXERCISE OPTIONS BY SECTION
 
-## A) SQUAT/PULL (531 Candidates)
+## A) SQUAT/PULL (8/5/3 Candidates)
 
-| Exercise | When to Use | 531 Candidate |
+| Exercise | When to Use | 8/5/3 Candidate |
 |----------|-------------|---------------|
 | Safety Bar Squat | Default for most | YES |
 | Zercher Squat | Stronger clients | YES |
@@ -155,12 +153,12 @@ Significantly less? ──YES──→ DECREASE weight
 | RDL | Standard hinge | Use KB if bar problematic |
 | Hipster (foot elevated hip extension) | Glute focus | No |
 | Staggered Stance Ipsilateral DB Deadlift | Single leg prep | Landmine option |
-| Hex Bar Deadlift | Back-friendly | YES — 531 candidate |
-| Kettlebell Deadlift | Simpler loading | YES — 531 candidate |
+| Hex Bar Deadlift | Back-friendly | YES — 8/5/3 candidate |
+| Kettlebell Deadlift | Simpler loading | YES — 8/5/3 candidate |
 
 ## C) SHOULDER/GLUTE
 
-| Exercise | When to Use | 531 Candidate |
+| Exercise | When to Use | 8/5/3 Candidate |
 |----------|-------------|---------------|
 | Barbell Shoulder Press | Standard | YES |
 | 1/2 Kneeling Single Arm Press | Shoulder issues | YES |
@@ -201,7 +199,7 @@ Significantly less? ──YES──→ DECREASE weight
 | **D** | Farmer's Carry | 1 min | 1 min | Max reps |
 
 **Notes:**
-- Squat = 531 (Week 1 numbers)
+- Squat = 8/5/3 (Week 1 numbers)
 - Bench = decision tree (10 reps, go for max)
 - Hip thrust = 15 reps, go for max
 - Carry = walk, max distance in 1 minute
@@ -218,7 +216,7 @@ Significantly less? ──YES──→ DECREASE weight
 | **D** | Palloff Press | 8/side | 8/side | Max reps |
 
 **Notes:**
-- Bench = 531 (Week 1)
+- Bench = 8/5/3 (Week 1)
 - RDL = decision tree
 - Face pull = 15 reps, go for max
 - Palloff = hold, max time
@@ -235,7 +233,7 @@ Significantly less? ──YES──→ DECREASE weight
 | **D** | Rucking | 3 min | 3 min | Max distance |
 
 **Notes:**
-- Shoulder Press = 531
+- Shoulder Press = 8/5/3
 - Lat pulldown = decision tree
 - Band walks = 15 each direction, max
 - Ruck = walk, cover max distance in 3 minutes
@@ -274,7 +272,7 @@ DATE: _______________
 
 SESSION: A  B  C
 
-A) _____________ (531)
+A) _____________ (8/5/3)
   Set 1: ___×___ @ ___lbs
   Set 2: ___×___ @ ___lbs
   Set 3: ___×___ @ ___lbs (Goal: ___ reps)
@@ -325,7 +323,7 @@ Ask: "How does [body part] feel today? (0-10)"
 
 ## Starting a New Client
 
-1. **Assessment** — Determine training max for each 531 movement
+1. **Assessment** — Determine training max for each 8/5/3 movement
 2. **Tier placement** — Foundation/Development/Performance
 3. **Select exercises** — From the options list based on their body
 4. **Set expectations** — Explain the decision tree, have them track
