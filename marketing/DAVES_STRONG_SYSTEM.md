@@ -189,54 +189,60 @@ Significantly less? ──YES──→ DECREASE weight
 
 # SECTION 6: SAMPLE SESSIONS
 
-## SESSION A
+## SESSION A (Day 1)
 
 | Section | Exercise | Set 1 | Set 2 | Set 3 |
 |---------|----------|-------|-------|-------|
-| **A** | Safety Bar Squat | 50%×8 | 60%×8 | 70%×8 (AMRAP) |
+| **D (Warm-Up)** | Farmer's Carry | 1 min | 1 min | Max reps |
+| **A** | Safety Bar Squat | 55%×8 | 65%×8 | 75%×8 (AMRAP) |
 | **B** | Bench Press | 10 | 10 | Max reps |
-| **C** | Single Leg Hip Thrust | 15 | 15 | Max reps |
-| **D** | Farmer's Carry | 1 min | 1 min | Max reps |
-
-**Notes:**
-- Squat = 8/5/3 (Week 1 numbers)
-- Bench = decision tree (10 reps, go for max)
-- Hip thrust = 15 reps, go for max
-- Carry = walk, max distance in 1 minute
-
----
-
-## SESSION B
-
-| Section | Exercise | Set 1 | Set 2 | Set 3 |
-|---------|----------|-------|-------|-------|
-| **A** | Bench Press | 50%×8 | 60%×8 | 70%×8 (AMRAP) |
-| **B** | RDL | 10 | 10 | Max reps |
+| **B** | Leg Curl | 10 | 10 | Max reps |
 | **C** | Face Pull | 15 | 15 | Max reps |
-| **D** | Palloff Press | 8/side | 8/side | Max reps |
+| **C** | Single Leg Hip Thrust | 15 | 15 | Max reps |
 
 **Notes:**
-- Bench = 8/5/3 (Week 1)
-- RDL = decision tree
-- Face pull = 15 reps, go for max
-- Palloff = hold, max time
+- D first = warm-up + capacity building
+- A = 8/5/3 (Week 1: 55/65/75%)
+- B = Bench + Leg Curl (both 3×10, last set max reps)
+- C = Face Pull + Single Leg Hip Thrust (both 3×15, last set max reps)
 
 ---
 
-## SESSION C
+## SESSION B (Day 2)
 
 | Section | Exercise | Set 1 | Set 2 | Set 3 |
 |---------|----------|-------|-------|-------|
-| **A** | Barbell Shoulder Press | 50%×8 | 60%×8 | 70%×8 (AMRAP) |
-| **B** | Lat Pulldown (reverse grip) | 10 | 10 | Max reps |
-| **C** | Lateral Band Walks | 15/side | 15/side | Max reps |
-| **D** | Rucking | 3 min | 3 min | Max distance |
+| **D (Warm-Up)** | Palloff Press | 8/side | 8/side | Max reps |
+| **A** | Bench Press | 55%×8 | 65%×8 | 75%×8 (AMRAP) |
+| **B** | Face Pull | 10 | 10 | Max reps |
+| **B** | Single Leg Hip Thrust | 10 | 10 | Max reps |
+| **C** | RDL | 15 | 15 | Max reps |
+| **C** | Goblet Squat | 15 | 15 | Max reps |
 
 **Notes:**
-- Shoulder Press = 8/5/3
-- Lat pulldown = decision tree
-- Band walks = 15 each direction, max
-- Ruck = walk, cover max distance in 3 minutes
+- D first = warm-up + core stability
+- A = 8/5/3 (Week 1: 55/65/75%)
+- B = Face Pull + Single Leg Hip Thrust (both 3×10)
+- C = RDL + Goblet Squat (both 3×15)
+
+---
+
+## SESSION C (Day 3)
+
+| Section | Exercise | Set 1 | Set 2 | Set 3 |
+|---------|----------|-------|-------|-------|
+| **D (Warm-Up)** | Rucking | 3 min | 3 min | Max distance |
+| **A** | Barbell Shoulder Press | 55%×8 | 65%×8 | 75%×8 (AMRAP) |
+| **B** | Lat Pulldown (reverse grip) | 10 | 10 | Max reps |
+| **B** | RDL | 10 | 10 | Max reps |
+| **C** | Lateral Band Walks | 15/side | 15/side | Max reps |
+| **C** | Box Squat | 15 | 15 | Max reps |
+
+**Notes:**
+- D first = warm-up + low-intensity cardio
+- A = 8/5/3 (Week 1: 55/65/75%)
+- B = Lat Pulldown + RDL (both 3×10)
+- C = Band Walks + Box Squat (both 3×15)
 
 ---
 
