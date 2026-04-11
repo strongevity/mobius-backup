@@ -1,0 +1,46 @@
+Exercise,Training Max (lbs),Week 1 Set 1 (55%),Week 1 Set 2 (65%),Week 1 Set 3 (75%),Week 2 Set 1 (65%),Week 2 Set 2 (75%),Week 2 Set 3 (85%),Week 3 Set 1 (70%),Week 3 Set 2 (80%),Week 3 Set 3 (90%),Week 4 Set 1 (50%),Week 4 Set 2 (50%),Week 4 Set 3 (50%)
+Safety Bar Squat,100,55,65,75,65,75,85,70,80,90,50,50,50
+Bench Press,100,55,65,75,65,75,85,70,80,90,50,50,50
+Shoulder Press,100,55,65,75,65,75,85,70,80,90,50,50,50
+
+NOTES:,,"Enter your TM in column B",The percentages will calculate automatically,"","","","","","","","",""
+
+SESSION A - DAY 1,,,,,,,,,,,,,
+Section,Exercise,Set 1,Set 2,Set 3,Notes,,,,,
+D (Warm-Up),Farmer's Carry,-,-,Max reps,Time: ,,,,,,,
+A,Start with TM from above,-,-,-,TM: ,,,,,,,
+B,Bench Press,10 reps,10 reps,Max reps,Weight: ,,,,,,,
+B,Leg Curl,10 reps,10 reps,Max reps,Weight: ,,,,,,,
+C,Face Pull,15 reps,15 reps,Max reps,Weight: ,,,,,,,
+C,Single Leg Hip Thrust,15 reps,15 reps,Max reps,Weight: ,,,,,,,
+
+SESSION B - DAY 2,,,,,,,,,,,,,
+Section,Exercise,Set 1,Set 2,Set 3,Notes,,,,,
+D (Warm-Up),Palloff Press,8/side,8/side,Max reps,Hold (sec): ,,,,,,,
+A,Start with TM from above,-,-,-,TM: ,,,,,,,
+B,Face Pull,10 reps,10 reps,Max reps,Weight: ,,,,,,,
+B,Single Leg Hip Thrust,10 reps,10 reps,Max reps,Weight: ,,,,,,,
+C,RDL,15 reps,15 reps,Max reps,Weight: ,,,,,,,
+C,Goblet Squat,15 reps,15 reps,Max reps,Weight: ,,,,,,,
+
+SESSION C - DAY 3,,,,,,,,,,,,,
+Section,Exercise,Set 1,Set 2,Set 3,Notes,,,,,
+D (Warm-Up),Rucking,3 min,3 min,Max distance,Distance: ,,,,,,,
+A,Start with TM from above,-,-,-,TM: ,,,,,,,
+B,Lat Pulldown (reverse grip),10 reps,10 reps,Max reps,Weight: ,,,,,,,
+B,RDL,10 reps,10 reps,Max reps,Weight: ,,,,,,,
+C,Lateral Band Walks,15/side,15/side,Max reps,Band: ,,,,,,,
+C,Box Squat,15 reps,15 reps,Max reps,Weight: ,,,,,,,
+
+WEEKLY PROGRESSION LOG,,,,,,,,,,,,,
+Week,Target Reps,Actual Reps,Result,Action,,,,,,
+Week 1,8,,"=IF(C34>=8,"PASS","FAIL")","=IF(D34="PASS","+5 lbs","Same")",,,,,,,
+Week 2,5,,"=IF(C35>=5,"PASS","FAIL")","=IF(D35="PASS","+5 lbs","Same")",,,,,,,
+Week 3,3,,"=IF(C36>=3,"PASS","FAIL")","=IF(D36="PASS","+5 lbs","Same")",,,,,,,
+Week 4,DELOAD,-,-,-,Take it easy,,,,,,,,
+
+PAIN CHECK (0-10),,,,,,,,,,,,,,
+,Shoulder,Back,Hips,Knees,,,,,,,,
+Session A,,,,,,,,,,,,,
+Session B,,,,,,,,,,,,,
+Session C,,,,,,,,,,,,,
