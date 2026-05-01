@@ -11,7 +11,7 @@
 
 ### Morning (7-9am)
 **Post 1:**
-> 🚨 Murrells Inlet! Something new is coming...
+> 🚨 Something new is coming...
 > 
 > A personal training studio designed specifically for adults 55+.
 > 
@@ -93,7 +93,7 @@
 **Post 8:**
 > 📢 TAG SOMEONE WHO NEEDS TO HEAR THIS!
 > 
-> Do you know someone in Murrells Inlet who's 55+ and wants to stay active?
+> Do you know someone who's 55+ and wants to stay active?
 > 
 > Tag them here!
 > 
